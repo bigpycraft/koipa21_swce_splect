@@ -9,8 +9,8 @@
 
 ## Notice 
 - [교육자료] : https://github.com/bigpycraft/koipa21_swce_splect
-- [공유폴더] : \192.15.206.251\100000100$
-- [보안PW] : itcampus21! 또는 itcampus21!!
+- [공유폴더] : \183.110.2244.186\lecture\shared
+- [보안 PW] : itcampus21! 또는 itcampus21!!
 
 <hr>
 

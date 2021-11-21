@@ -19,10 +19,7 @@
 - [정보통신 분야 ICT 직무][Lect-2]
 - 포트폴리오 리뷰 및 멘토링
 - 깃(Git) & 깃허브(GitHub) 활용
-
-<hr>
-
-[(양식) 개발자_이력서_자소서_포트폴리오][Form-1]
+- [(양식) 개발자_이력서_자소서_포트폴리오][Form-1]
 
 [Form-1]: ./sample/docu_form_01.pdf                  "Go Form-1"
 [Lect-1]: ./special_lect/SW융합교육_특강1.pdf                  "Go Lect-1"
